@@ -27,6 +27,7 @@ Usage :
 """
 
 import argparse
+import io
 import json
 import os
 import random
@@ -102,7 +103,7 @@ def fetch_table(direction: str, day: date) -> pd.DataFrame:
     params = {"w": direction, "date": day.strftime("%d/%m/%Y"), "time": "00:00"}
     resp = get_with_retries(params, build_headers())
 
-    tables = pd.read_html(resp.text)
+    tables = pd.read_html(io.StringIO(resp.text))
     for t in tables:
         cols = [clean_text(c) for c in t.columns]
         if any("Numéro de vol" in c for c in cols):
