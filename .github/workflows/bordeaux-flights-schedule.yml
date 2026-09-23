@@ -1,0 +1,48 @@
+name: Suivi vols Bordeaux
+
+on:
+  schedule:
+    # Tous les horaires sont en UTC (GitHub Actions ne connaît pas les fuseaux
+    # horaires locaux). Calculés pour Paris en heure d'été (CEST, UTC+2),
+    # valable jusqu'à fin octobre 2026. À la bascule en heure d'hiver
+    # (dernier dimanche d'octobre), décalez chaque ligne d'une heure PLUS
+    # TARD en UTC pour rester aligné sur les mêmes horaires locaux à Paris
+    # (ex: "15 22 * * *" devient "15 23 * * *"). Inverse au retour de l'heure
+    # d'été fin mars.
+    - cron: "15 22 * * *"  # 00h15 Paris (jour suivant)
+    - cron: "0 1 * * *"    # 03h00 Paris
+    - cron: "30 5 * * *"   # 07h30 Paris
+    - cron: "0 10 * * *"   # 12h00 Paris
+    - cron: "30 12 * * *"  # 14h30 Paris
+    - cron: "30 15 * * *"  # 17h30 Paris
+    - cron: "30 17 * * *"  # 19h30 Paris
+    - cron: "30 19 * * *"  # 21h30 Paris
+    - cron: "0 21 * * *"   # 23h00 Paris
+  workflow_dispatch: {}    # permet de déclencher un run manuel depuis l'onglet Actions
+
+jobs:
+  fetch-flights:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Récupérer l'état actuel des vols (avec délai aléatoire intégré)
+        env:
+          EXPORT_WEBHOOK_URL: ${{ secrets.EXPORT_WEBHOOK_URL }}
+        run: python bordeaux_flights_site_officiel.py
+
+      - name: Committer les données mises à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/history.jsonl data/latest.json
+          git commit -m "Vols Bordeaux $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "Rien à committer"
+          git push
