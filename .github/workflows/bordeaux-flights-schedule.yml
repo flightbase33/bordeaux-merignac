@@ -20,9 +20,18 @@ on:
     - cron: "0 21 * * *"   # 23h00 Paris
   workflow_dispatch: {}    # permet de déclencher un run manuel depuis l'onglet Actions
 
+# Un seul relevé à la fois (04/10/2026) : GitHub peut lancer plusieurs relevés
+# en retard presque en même temps ; ils attendent leur tour au lieu de se
+# marcher dessus (le run #101 du 04/10 avait perdu son relevé ainsi).
+concurrency:
+  group: suivi-vols-bordeaux
+  cancel-in-progress: false
+
 jobs:
   fetch-flights:
-    runs-on: ubuntu-latest
+    # Version figée (04/10/2026) : « ubuntu-latest » passe à Ubuntu 26 à partir
+    # du 19/10/2026 ; on garde la version qui marche aujourd'hui.
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     steps:
@@ -44,5 +53,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/history.jsonl data/latest.json
-          git commit -m "Vols Bordeaux $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "Rien à committer"
-          git push
+          git commit -m "Vols Bordeaux $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || { echo "Rien à committer"; exit 0; }
+          # Si un autre relevé a publié entre-temps, on récupère d'abord ses
+          # données puis on renvoie (3 essais) ; en cas de conflit, échec visible.
+          for essai in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Envoi refusé (essai $essai) : récupération des relevés publiés entre-temps"
+            git pull --rebase origin main || { git rebase --abort; echo "Conflit : relevé non publié"; exit 1; }
+          done
+          exit 1
