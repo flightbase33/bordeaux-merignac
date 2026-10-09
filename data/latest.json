@@ -7,8 +7,8 @@
     "numero_vol": "EJU1871",
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -18,8 +18,8 @@
     "numero_vol": "V72702",
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 60",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -29,8 +29,8 @@
     "numero_vol": "AF7441",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 22",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -40,8 +40,8 @@
     "numero_vol": "EJU1905",
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -51,8 +51,8 @@
     "numero_vol": "EJU1815",
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -62,8 +62,8 @@
     "numero_vol": "KL1440",
     "compagnie": "KLM",
     "terminal_porte": "Embarquement : Hall A - porte 01",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -73,8 +73,8 @@
     "numero_vol": "EJU8382",
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -84,8 +84,8 @@
     "numero_vol": "AF9425",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 23",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Décollé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -95,8 +95,8 @@
     "numero_vol": "EZS1069",
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Atterri à 07:15",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -105,9 +105,9 @@
     "ville": "BALE",
     "numero_vol": "EZS1070",
     "compagnie": "easyJet",
-    "terminal_porte": "Embarquement : Terminal billi",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "terminal_porte": "Embarquement : Terminal billi - porte 31",
+    "statut": "Embarquement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -117,8 +117,8 @@
     "numero_vol": "EZS1389",
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Prévu à 08:00",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -128,8 +128,8 @@
     "numero_vol": "IB1199 AA8621 AY4771 QR7248 VY5510",
     "compagnie": "Iberia AMERICAN AIRLINES Finnair QATAR AIRWAYS Vueling",
     "terminal_porte": "Sortie : Hall A",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Prévu à 08:30",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -140,7 +140,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "Retardé",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -150,8 +150,8 @@
     "numero_vol": "EZS1390",
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -162,7 +162,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -172,8 +172,8 @@
     "numero_vol": "IB1200 AA8830 CX1835 AY4772 LA1796 QR7241",
     "compagnie": "Iberia AMERICAN AIRLINES CATHAY PACIFIC Finnair LAN AIRLINES QATAR AIRWAYS",
     "terminal_porte": "Embarquement : Hall A - porte 55",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -184,7 +184,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -195,7 +195,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -205,8 +205,8 @@
     "numero_vol": "AF7431",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 22",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -217,7 +217,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -228,7 +228,7 @@
     "compagnie": "Aer Lingus",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -239,7 +239,7 @@
     "compagnie": "Lufthansa",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -250,7 +250,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -261,7 +261,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -272,7 +272,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -283,7 +283,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "Retardé",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -293,8 +293,8 @@
     "numero_vol": "V72438",
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 16",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -305,7 +305,7 @@
     "compagnie": "Aer Lingus",
     "terminal_porte": "Embarquement : Hall A - porte 14",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -316,7 +316,7 @@
     "compagnie": "Lufthansa",
     "terminal_porte": "Embarquement : Hall B - porte 25",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -327,7 +327,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -338,7 +338,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -349,7 +349,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -359,8 +359,8 @@
     "numero_vol": "TS516",
     "compagnie": "Air Transat",
     "terminal_porte": "Sortie : Hall A",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Prévu à 11:02",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -371,7 +371,7 @@
     "compagnie": "KLM",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -382,7 +382,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -393,7 +393,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 59",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -404,7 +404,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -415,7 +415,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -426,7 +426,7 @@
     "compagnie": "Royal Air Maroc",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -437,7 +437,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -448,7 +448,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -458,8 +458,8 @@
     "numero_vol": "AF7433",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 22",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -470,7 +470,7 @@
     "compagnie": "KLM",
     "terminal_porte": "Embarquement : Hall A - porte 60",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -481,7 +481,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 55",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -492,7 +492,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -503,7 +503,7 @@
     "compagnie": "Luxair Airlines",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -514,7 +514,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -525,7 +525,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -536,7 +536,7 @@
     "compagnie": "Vueling Iberia QATAR AIRWAYS",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -547,7 +547,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -558,7 +558,7 @@
     "compagnie": "Royal Air Maroc",
     "terminal_porte": "Embarquement : Hall A - porte 14",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -568,8 +568,8 @@
     "numero_vol": "W46199",
     "compagnie": "WIZZ AIR MALTA",
     "terminal_porte": "Sortie : Hall A",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Retardé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -580,7 +580,7 @@
     "compagnie": "Air Transat",
     "terminal_porte": "Embarquement : Hall A - porte 12",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -591,7 +591,7 @@
     "compagnie": "Luxair Airlines",
     "terminal_porte": "Embarquement : Hall A - porte 54",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -602,7 +602,7 @@
     "compagnie": "Vueling Iberia LAN AIRLINES QATAR AIRWAYS",
     "terminal_porte": "Embarquement : Hall A - porte 09",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -613,7 +613,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -623,8 +623,8 @@
     "numero_vol": "W46200",
     "compagnie": "WIZZ AIR MALTA",
     "terminal_porte": "Embarquement : Hall A - porte 55",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Retardé",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -635,7 +635,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -646,7 +646,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -656,8 +656,8 @@
     "numero_vol": "AF7435",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 22",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -668,7 +668,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -679,7 +679,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -690,7 +690,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -701,7 +701,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -712,7 +712,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -723,7 +723,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -734,7 +734,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -744,8 +744,8 @@
     "numero_vol": "AF6135",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 23",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -756,7 +756,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -767,7 +767,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -778,7 +778,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -789,7 +789,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 59",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -800,7 +800,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -811,7 +811,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -822,7 +822,7 @@
     "compagnie": "WIZZAIR UK LIMITED",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -833,7 +833,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 55",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -844,7 +844,7 @@
     "compagnie": "KLM",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -855,7 +855,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -866,7 +866,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -877,7 +877,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -888,7 +888,7 @@
     "compagnie": "WIZZAIR UK LIMITED",
     "terminal_porte": "Embarquement : Hall A - porte 16",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -899,7 +899,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -910,7 +910,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -921,7 +921,7 @@
     "compagnie": "Transavia France",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -932,7 +932,7 @@
     "compagnie": "KLM",
     "terminal_porte": "Embarquement : Hall A - porte 60",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -943,7 +943,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -954,7 +954,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -965,7 +965,7 @@
     "compagnie": "Iberia AMERICAN AIRLINES CATHAY PACIFIC Finnair LAN AIRLINES QATAR AIRWAYS",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -976,7 +976,7 @@
     "compagnie": "Turkish Airlines",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -987,7 +987,7 @@
     "compagnie": "Iberia LAN AIRLINES QATAR AIRWAYS Vueling",
     "terminal_porte": "Embarquement : Hall A - porte 55",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -998,7 +998,7 @@
     "compagnie": "Transavia France",
     "terminal_porte": "Embarquement : Hall A - porte 59",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1009,7 +1009,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1020,7 +1020,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1031,7 +1031,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1042,7 +1042,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1053,7 +1053,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1064,7 +1064,7 @@
     "compagnie": "Scandinavian Airlines",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1075,7 +1075,7 @@
     "compagnie": "Turkish Airlines",
     "terminal_porte": "Embarquement : Hall A - porte 14",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1086,7 +1086,7 @@
     "compagnie": "Swiss",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1096,8 +1096,8 @@
     "numero_vol": "AF7437",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 22",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1108,7 +1108,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1119,7 +1119,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1130,7 +1130,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1140,8 +1140,8 @@
     "numero_vol": "AF6137",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 23",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1152,7 +1152,7 @@
     "compagnie": "Scandinavian Airlines",
     "terminal_porte": "Embarquement : Hall A - porte 60",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1163,7 +1163,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1174,7 +1174,7 @@
     "compagnie": "Swiss",
     "terminal_porte": "Embarquement : Hall A - porte 09",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1185,7 +1185,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1196,7 +1196,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1207,7 +1207,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1218,7 +1218,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1229,7 +1229,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1240,7 +1240,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 55",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1250,8 +1250,8 @@
     "numero_vol": "AF7439",
     "compagnie": "Air France",
     "terminal_porte": "Embarquement : Hall B - porte 22",
-    "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "statut": "Enregistrement",
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1262,7 +1262,7 @@
     "compagnie": "NORWEGIAN AIR INTERN",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1273,7 +1273,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1284,7 +1284,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1295,7 +1295,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1306,7 +1306,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1317,7 +1317,7 @@
     "compagnie": "British Airways",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1328,7 +1328,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1339,7 +1339,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1350,7 +1350,7 @@
     "compagnie": "NORWEGIAN AIR INTERN",
     "terminal_porte": "Embarquement : Hall A - porte 60",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1361,7 +1361,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1372,7 +1372,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1383,7 +1383,7 @@
     "compagnie": "Volotea",
     "terminal_porte": "Embarquement : Hall A - porte 55",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1394,7 +1394,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Terminal billi",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1405,7 +1405,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1416,7 +1416,7 @@
     "compagnie": "Nouvelair",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1427,7 +1427,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1438,7 +1438,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Hall A - porte 16",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1449,7 +1449,7 @@
     "compagnie": "British Airways",
     "terminal_porte": "Embarquement : Hall A - porte 80",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1460,7 +1460,7 @@
     "compagnie": "Nouvelair",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1471,7 +1471,7 @@
     "compagnie": "Vueling Iberia LAN AIRLINES QATAR AIRWAYS",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1482,7 +1482,7 @@
     "compagnie": "Air France",
     "terminal_porte": "Sortie : Hall B",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1493,7 +1493,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Embarquement : Hall A - porte 83",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1504,7 +1504,7 @@
     "compagnie": "KLM",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1515,7 +1515,7 @@
     "compagnie": "Nouvelair",
     "terminal_porte": "Embarquement : Hall A - porte 14",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1526,7 +1526,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1537,7 +1537,7 @@
     "compagnie": "Vueling Iberia QATAR AIRWAYS",
     "terminal_porte": "Embarquement : Hall A - porte 60",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1548,7 +1548,7 @@
     "compagnie": "easyJet",
     "terminal_porte": "Sortie : Hall BIL",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1559,7 +1559,7 @@
     "compagnie": "Nouvelair",
     "terminal_porte": "Embarquement : Hall A - porte 81",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   },
   {
     "date_vol": "2026-10-09",
@@ -1570,6 +1570,6 @@
     "compagnie": "Volotea",
     "terminal_porte": "Sortie : Hall A",
     "statut": "",
-    "consulte_a": "2026-10-09T03:22:44+02:00"
+    "consulte_a": "2026-10-09T07:47:10+02:00"
   }
 ]
